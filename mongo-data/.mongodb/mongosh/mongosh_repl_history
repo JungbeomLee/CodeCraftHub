@@ -1,0 +1,10 @@
+db.users.find()
+use admin
+db.users.find()
+db.admin.find()
+admin.users.find()
+db.users.find()
+db.admin.find()
+show dbs
+exit
+show dbs
